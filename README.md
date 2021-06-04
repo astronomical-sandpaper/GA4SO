@@ -7,6 +7,9 @@ Goanimate for Schools Online is a project that revives the legacy of the origina
 4. If the account system page doesn't work or the notifications, it will be replaced with GoAnimate for Schools 404 page.
 # The Links
 ***The homepage can be accessed [here](https://owendeveloper490.github.io/GA4SO/).***
+
 ***The video page can be accessed [here](https://owendeveloper490.github.io/GA4SO/movies.html).***
+
 ***The character creator can be accessed [here](https://owendeveloper490.github.io/GA4SO/character_creator/cwfull.html).***
+
 ***The videomaker can be accessed [here](https://owendeveloper490.github.io/GA4SO/videomaker/full/cw.html).***
