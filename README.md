@@ -1,5 +1,5 @@
 # GA4SO (Goanimate for Schools Online)
-Goanimate for Schools Online is a project that revives the legacy of the original GA4S by bringing it online. With this project, you will get working starters, working account systen, a good looking notification page, and more! And please know that half of this is still in beta. So some stuff might not work.\
+Goanimate for Schools Online is a project that revives the legacy of the original GA4S by bringing it online. With this project, you will get working starters, working account systen, a good looking notification page, and more! And please know that half of this is still in beta. So some stuff might not work.
 # Bugs
 1. Importing doesn't work
 2. Starters don't save yet.
