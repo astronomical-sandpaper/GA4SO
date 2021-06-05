@@ -2,9 +2,8 @@
 Goanimate for Schools Online is a project that revives the legacy of the original GA4S by bringing it online. With this project, you will get working starters, working account systen, a good looking notification page, and more! And please know that half of this is still in beta. So some stuff might not work.\
 # Bugs
 1. Importing doesn't work
-2. If you insert TTS, the player will buffer (At least on video maker)
-3. Starters don't save yet.
-4. If the account system page doesn't work or the notifications, it will be replaced with GoAnimate for Schools 404 page.
+2. Starters don't save yet.
+3. If the account system page doesn't work or the notifications, it will be replaced with GoAnimate for Schools 404 page.
 # The Links
 ***The homepage can be accessed [here](https://owendeveloper490.github.io/GA4SO/).***
 
