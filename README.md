@@ -9,6 +9,6 @@ Goanimate for Schools Online is a project that revives the legacy of the origina
 
 ***The video page can be accessed [here](https://owendeveloper490.github.io/GA4SO/movies.html).***
 
-***The character creator can be accessed [here](https://owendeveloper490.github.io/GA4SO/character_creator/cwfull.html).***
+***The character creator can be accessed [here](https://owendeveloper490.github.io/GA4SO/character_creator/cw.html).***
 
-***The videomaker can be accessed [here](https://owendeveloper490.github.io/GA4SO/videomaker/full/cw.html).***
+***The choose a style page can be accessed [here](https://owendeveloper490.github.io/GA4SO/videomaker.html)***
